@@ -1,0 +1,23 @@
+git init
+git branch -M main
+git add .
+git commit -m "nombre de version"
+git push
+git pull
+git status
+
+git init: es para inicializar un repositorio local
+git branch -M main: " sirve para renombrar la rama master por main"
+git add . : "este comando sirve para agregar todos los archivos"
+git commit -m "firt commit" ( este comando sirve para nombrar la version de la subida)
+git push: "sube los cambios al repositorio en la web o nube" 
+git pull "jala los cambios del repositorio web"
+git status "comprueba si hay cambios o el estado de los archivos" 
+
+
+configuración del usuario local git
+git config --local user.name "su nombre"
+git config --local user.email "su correo electrónico registrado en github"
+(recuerden abrir el "administrador de credenciales" seleccionar "credenciales windows" y eliminar cualquier credencial relacionada con git o GitHub.
+
+
