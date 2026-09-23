@@ -22,4 +22,6 @@ git config --local user.name "su nombre"
 git config --local user.email "su correo electrónico registrado en github"
 (recuerden abrir el "administrador de credenciales" seleccionar "credenciales windows" y eliminar cualquier credencial relacionada con git o GitHub.
 
+git clone: sirve para clonar o recuperar repositorios en el equipo de computo
+
 
